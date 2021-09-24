@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**humbertovnavarro/humbertovnavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+Hello! my name is humberto navarro and I'm a Full Stack Web developer with a passion for Game Development and Linux!
+I love to make game music and  combat systems, and I'm interested in applying my knowledge of game development and linux to the field of
+Web Development. I'm passionate about UX and Interface design, and making apps easier to use.
+https://www.linkedin.com/in/humbertovnavarro/
 
-Here are some ideas to get you started:
+# Fun Fact
+I play guitar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌱 Learning
+* Design Patterns
+* Data Structures
+* Algorithms
+
+# Skills
+* JavaScript (ES5/ES6)
+* JSON
+* React
+* CSS
+* Express
+* bash scripting
+* Unix like systems
+* NGINX
+* Unity Engine
+* C#
