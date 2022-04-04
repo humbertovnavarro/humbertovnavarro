@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **golang**
 
-- 💬 Ask me about **my switch from SQL to NoSQL**
+- 💬 Ask me about **my thoughts on SQL vs NoSQL**
 
 - 📫 How to reach me **humberto.navarro.dev@gmail.com**
 
