@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Humberto Navarro</h1>
+<h1 align="center">Hello! I'm Humberto Navarro, also known as Kamaii, KamaiiOhMae, and KamaiiDev!</h1>
 <h3 align="center">Full Stack Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humbertovnavarro&label=Profile%20views&color=0e75b6&style=flat" alt="humbertovnavarro" /> </p>
