@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Humberto Navarro, also known as Kamaii, KamaiiOhMae, and KamaiiDev!</h1>
 <h3 align="center">Welcome to my personal github.</h3>
 <p>
-  I'm a Fullstack engineer with 5 years of hands on coding experience. I take pride in my work, and strive to build solutions that are clean, readable, and future proof.
+  I'm a Fullstack engineer with hands on coding experience. I take pride in my work, and strive to build solutions that are clean, readable, and future proof.
 </p>
 <p>
   Watch me code on <a href="https://twitch.tv/kamaiiohmae">twitch</a>!
