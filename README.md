@@ -3,10 +3,6 @@
 <p>
   I'm a Fullstack engineer with hands on coding experience. I take pride in my work, and strive to build solutions that are clean, readable, and future proof.
 </p>
-<p>
-  Watch me code on <a href="https://twitch.tv/kamaiiohmae">twitch</a>!
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humbertovnavarro&label=Profile%20views&color=0e75b6&style=flat" alt="humbertovnavarro" /> </p>
 
 - 📫  Email **humberto.navarro.dev@gmail.com**
